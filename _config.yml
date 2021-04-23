@@ -1,0 +1,29 @@
+title:              AI Future Forum
+email:              aieconomy@hankyung.com
+description:        한경 AI 경제연구소, AI 미래 포럼.
+author:             한국경제신문
+baseurl:            "/"
+url:                "https://AIFForum.github.io"
+
+# Social Profiles
+#twitter_username:   SBootstrap
+github_username:    AIFForum
+facebook_username:  AIFutureForum 
+#instagram_username:  
+#linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   G-9YFCHSKHR7 # out your google-analytics code
+
+#disqus_url : aieconomy@hankyung.com
+disqus_id: aifforum-github-io
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
