@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "인공지능의 기대와 현실"
+title: "인공지능의 기대와 현실 1/2"
 subtitle: "[제2차 AI 미래포럼 웨비나] 어떤 노력이 필요한가"
 date:   2021-05-13 09:00:00 +0900
 categories: Archive
